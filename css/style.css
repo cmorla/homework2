@@ -27,26 +27,26 @@ img {
 }
 
 #intro{
-    height: 150px;
+    min-height: 150px;
     padding: 25px;
 }
 
 #red{
-    height: 150px;
+    min-height: 150px;
     padding: 25px;
     background: red;
     text-align: right;
 }
 
 #blue{
-    height: 150px;
+    min-height: 150px;
     padding: 25px;
     background: blue;
     text-align: left;
 }
 
 #yellow{
-    height: 150px;
+    min-height: 150px;
     padding: 25px;
     background: yellow;
     text-align: right;
@@ -58,7 +58,7 @@ img {
 }
 
 #green{
-    height: 150px;
+    min-height: 150px;
     padding: 25px;
     background: green;
     text-align: left;
